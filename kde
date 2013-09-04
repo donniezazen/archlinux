@@ -2,7 +2,7 @@ base base-devel vim iw wpa_supplicant grub os-prober
 
 alsa-utils xorg-server xorg-server-utils xorg-xinit mesa xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu git wget xdg-user-dirs ttf-droid ntp openssh
 
-kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks
+kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks
 
 networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
 
@@ -30,7 +30,9 @@ steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 
 gparted dosfstools ntfs-3g gpart mtools archlinux-artwork pacmatic html2text
 
-nfs-utils grsync calibre digikam gimp pipelight android-sdk android-udev amarok poppler-glib ttf-opensans ttf-mac-fonts ttf-monaco rxvt-unicode gtk2-perl xorg-xev mediainfo-gui handbrake pms kdemultimedia-ffmpegthumbs audiothumbs
+nfs-utils grsync calibre digikam gimp pipelight android-sdk android-udev amarok poppler-glib ttf-opensans ttf-mac-fonts ttf-monaco rxvt-unicode gtk2-perl xorg-xev 
+
+mediainfo-gui handbrake pms 
 
 i3 dmenu i3lock i3status kshutdown
 
