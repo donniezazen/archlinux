@@ -30,15 +30,12 @@ steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 
 gparted dosfstools ntfs-3g gpart mtools archlinux-artwork pacmatic html2text
 
-nfs-utils grsync calibre digikam gimp pipelight android-sdk android-udev amarok poppler-glib ttf-opensans ttf-mac-fonts ttf-monaco rxvt-unicode gtk2-perl xorg-xev kdeplasma-addons-applets-lancelot qtcurve-kde4 qtcurve-kde3 qtcurve-gtk2 mediainfo-gui handbrake pms kdemultimedia-ffmpegthumbs audiothumbs konversation kdepim-kmail
-kdepim-kaddressbook kdepim-kalarm kdepim-kleopatra kdepim-kontact kdepim-korganizer kdepim-kresources kdenetwork-kopete kdeplasma-addons-runners-kopete
+nfs-utils grsync calibre digikam gimp pipelight android-sdk android-udev amarok poppler-glib ttf-opensans ttf-mac-fonts ttf-monaco rxvt-unicode gtk2-perl xorg-xev mediainfo-gui handbrake pms kdemultimedia-ffmpegthumbs audiothumbs
 
 i3 dmenu i3lock i3status kshutdown
 
 ruby dnsutils
 
-pelican python-markdown python-virtualenv python2-virtualenv 
-
-networkmanager-dispatcher-dropbox-systemd
+pelican python-markdown python-virtualenv python2-virtualenv
 
 abs gdb 
