@@ -7,6 +7,7 @@ alsa-utils xorg-server xorg-server-utils xorg-xinit mesa xf86-input-synaptics xf
 # Other utilites
 git wget xdg-user-dirs ttf-droid ntp openssh cower pacaur vim reflector pkgstats pkgfile tmux kdeutils-ark zip p7zip unzip unrar dosfstools ntfs-3g gpart mtools archlinux-artwork pacmatic html2text abs gdb dnsutils nfs-utils pipelight android-sdk android-udev poppler-glib ttf-opensans ttf-mac-fonts ttf-monaco rxvt-unicode gtk2-perl xorg-xev
 
+# KDE Install and other KDE apps
 kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks
 
 # Network Manager
