@@ -39,10 +39,4 @@ steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 ## i3
 i3 dmenu i3lock i3status kshutdown
 
-## Jeykll
-ruby 
-
-## Pelican
-pelican python-markdown python-virtualenv python2-virtualenv python-markdown python-beautifulsoup4 ghp-import pelican-themes-git
-
  
