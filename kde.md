@@ -43,6 +43,6 @@ i3 dmenu i3lock i3status kshutdown
 ruby 
 
 ## Pelican
-pelican python-markdown python-virtualenv python2-virtualenv
+pelican python-markdown python-virtualenv python2-virtualenv python-markdown python-beautifulsoup4 ghp-import pelican-themes-git
 
  
