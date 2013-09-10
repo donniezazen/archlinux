@@ -8,10 +8,10 @@ xorg-server xorg-server-utils xorg-xinit mesa mesa-demos xf86-input-synaptics xf
 alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
 
 # Other utilites
-git wget xdg-user-dirs ttf-droid ntp openssh cower pacaur vim reflector pkgstats pkgfile tmux kdeutils-ark zip p7zip unzip unrar dosfstools ntfs-3g gpart mtools archlinux-artwork pacmatic html2text abs gdb dnsutils nfs-utils pipelight android-sdk android-udev poppler-glib ttf-opensans ttf-mac-fonts ttf-monaco rxvt-unicode gtk2-perl xorg-xev ttf-microsoft-tahoma os-prober ttf-ms-fonts ttf-anonymous-pro source-code-pro-fonts
+git wget xdg-user-dirs ttf-droid ntp openssh cower pacaur vim reflector pkgstats pkgfile tmux kdeutils-ark zip p7zip unzip unrar dosfstools ntfs-3g gpart mtools archlinux-artwork pacmatic html2text abs gdb dnsutils nfs-utils pipelight android-sdk android-udev poppler-glib rxvt-unicode gtk2-perl xorg-xev os-prober ttf-mac-fonts ttf-monaco ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro
 
 # KDE Install and other KDE apps
-kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdepim-kontact kdepim-kaddressbook kdepim-akonadiconsole kdepim-kresources
+kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks
 
 # Network Manager
 networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
@@ -33,8 +33,3 @@ cups cups-filters ghostscript gsfonts avahi samba hplip hpoj kdeutils-print-mana
 
 # Steam
 steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
-
-# Testing
-
-## i3
-i3 dmenu i3lock i3status kshutdown
