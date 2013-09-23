@@ -6,7 +6,7 @@ xorg-server xorg-server-utils xorg-xinit mesa mesa-demos xf86-input-synaptics xf
 
 # Audio
 alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
-
+# Utilites
 ### Archiving Utilities
 kdeutils-ark zip p7zip unzip unrar
 ### Partition Manager
