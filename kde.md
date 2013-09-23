@@ -12,6 +12,7 @@ alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plug
 kdeutils-ark zip p7zip unzip unrar
 ### Partition Manager
 gparted dosfstools ntfs-3g gpart mtools
+
 git wget xdg-user-dirs ttf-droid ntp openssh cower pacaur reflector pkgstats pkgfile tmux abs gdb dnsutils nfs-utils pipelight android-sdk android-udev poppler-glib rxvt-unicode gtk2-perl xorg-xev os-prober ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git jdk dropbox grsync calibre digikam gimp 
 
 # KDE Install and other KDE apps
