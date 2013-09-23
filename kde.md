@@ -20,10 +20,10 @@ networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntp
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils 
 
 # Applications
-## Browser
+### Browser
 google-chrome google-talkplugin
-## Multimedia
-vlc banshee easytag transmission-qt gstreamer0.10-plugins google-musicmanager amarok
+### Multimedia
+vlc banshee gstreamer0.10-plugins easytag transmission-qt google-musicmanager amarok
 
 # Power management tools
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop lm_sensors thinkfan
