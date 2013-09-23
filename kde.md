@@ -7,16 +7,23 @@ xorg-server xorg-server-utils xorg-xinit mesa mesa-demos xf86-input-synaptics xf
 # Audio
 alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
 
-# Other utilites
 ### Archiving Utilities
 kdeutils-ark zip p7zip unzip unrar
 ### Partition Manager
 gparted dosfstools ntfs-3g gpart mtools
-
-git wget xdg-user-dirs ttf-droid ntp openssh cower pacaur reflector pkgstats pkgfile tmux abs gdb dnsutils nfs-utils pipelight android-sdk android-udev poppler-glib rxvt-unicode gtk2-perl xorg-xev os-prober ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git jdk dropbox grsync calibre digikam gimp 
+### Development
+abs gdb git wget android-sdk android-udev rxvt-unicode gtk2-perl
+### Photos
+digikam gimp poppler-glib
+### Fonts
+ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git ttf-droid
+### Arch Linux Utilities
+ntp openssh cower pacaur reflector pkgstats pkgfile tmux 
+### Other
+dnsutils nfs-utils xorg-xev os-prober  
 
 # KDE Install and other KDE apps
-kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser
+kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser xdg-user-dirs
 
 # Network Manager
 networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
@@ -28,9 +35,11 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 ### Browser
 google-chrome google-talkplugin
 ### Multimedia
-vlc banshee gstreamer0.10-plugins easytag transmission-qt google-musicmanager amarok
+vlc banshee gstreamer0.10-plugins easytag transmission-qt google-musicmanager amarok pipelight
 ### Communication
 skype
+### Other
+jdk dropbox grsync calibre
 
 # Power management tools
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop lm_sensors thinkfan
