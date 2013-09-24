@@ -19,14 +19,13 @@ python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
 
 # Utilites
-### Archiving Utilities
-> zip p7zip unzip unrar
-
 ### Partition Manager
 > gparted dosfstools ntfs-3g gpart mtools
 
 ### Development
-> abs gdb git wget android-sdk android-udev rxvt-unicode gtk2-perl
+> git
+
+abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl
 
 ### Photos
 > digikam gimp poppler-glib
@@ -35,7 +34,7 @@ python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves
 > ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git ttf-droid
 
 ### Arch Linux Utilities
-> ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs
+> ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs zip p7zip unzip unrar
 
 ### Other
 > dnsutils nfs-utils xorg-xev os-prober 
