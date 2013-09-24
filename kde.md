@@ -8,17 +8,19 @@
 > kdebase kdemultimedia-kmix kde-gtk-config gtk2 gtk3 oxygen-gtk2 oxygen-gtk3
 
 # KDE apps
-> kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot 
+> kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc
 
 # KDE Utilites
-> kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser
+> kdeplasma-addons-applets-showdesktop kdeplasma-addons-applets-icontasks kdeadmin-kuser kdeutils-kwallet kdeutils-kgpg kdeutils-ark
+
+python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins ksuperkey kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
 
 # Audio
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
 
 # Utilites
 ### Archiving Utilities
-> kdeutils-ark zip p7zip unzip unrar
+> zip p7zip unzip unrar
 
 ### Partition Manager
 > gparted dosfstools ntfs-3g gpart mtools
