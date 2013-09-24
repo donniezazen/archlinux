@@ -10,12 +10,8 @@
 # Network Manager
 > networkmanager kdeplasma-applets-networkmanagement 
 
-networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
-
 # Bumblebee
-> bumblebee bbswitch
-
-primus lib32-primus nvidia lib32-nvidia-utils
+> bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
 # KDE apps
 > kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kwallet kdeutils-kgpg kdeutils-ark
@@ -26,54 +22,24 @@ primus lib32-primus nvidia lib32-nvidia-utils
 # Bluetooth
 > bluedevil
 
-
 # Audio
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 
-
-
-kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
-
-# Utilites
-### Partition Manager
-> gparted dosfstools ntfs-3g gpart mtools nfs-utils
-
-### Development
-> git
-
-abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl
-
-### Photos
-> digikam gimp poppler-glib
-
-### Fonts
-> ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git ttf-droid
-
-### Arch Linux Utilities
-> ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs zip p7zip unzip unrar emacs
-
-# Applications
-
-### Browser
-> google-chrome google-talkplugin
-
-### Multimedia
-> vlc banshee gstreamer0.10-plugins easytag transmission-qt google-musicmanager amarok pipelight
-
-### Communication
-> skype
-
-### Other
-> jdk dropbox grsync calibre
+# Steam
+> steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 
 # Power management tools
-> tlp tlp-rdw smartmontools tp_smapi acpid htop powertop lm_sensors thinkfan
+> tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
 # Libreoffice
 > libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
-# Print and Scanner
-> cups cups-filters ghostscript gsfonts avahi samba hplip hpoj kdeutils-print-manager sane skanlite kdegraphics-ksaneplugin
+> jdk7-openjdk icedtea-web-java7 git emacs ttf-oxygen-git ttf-droid ttf-ms-fonts ntp openssh cower pacaur vlc banshee gstreamer0.10-plugins google-chrome google-talkplugin ntp openssh cower pacaur transmission-qt amarok xdg-user-dirs pkgstats pkgfile tmux skype easytag
 
-# Steam
-> steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
+# Print and Scanner
+> cups cups-filters ghostscript gsfonts hplip hpoj avahi samba kdeutils-print-manager sane skanlite kdegraphics-ksaneplugin
+
+
+
+
+kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl digikam gimp poppler-glib ttf-mac-fonts ttf-microsoft-tahoma ttf-anonymous-pro reflector zip p7zip unzip unrar google-musicmanager pipelight dropbox grsync calibre networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
