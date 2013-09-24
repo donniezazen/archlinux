@@ -8,7 +8,10 @@
 > kdebase kdemultimedia-kmix kde-gtk-config gtk2 gtk3 oxygen-gtk2 oxygen-gtk3
 
 # KDE apps
-> kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser xdg-user-dirs
+> kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot 
+
+# KDE Utilites
+> kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser
 
 # Audio
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
@@ -30,7 +33,7 @@
 > ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git ttf-droid
 
 ### Arch Linux Utilities
-> ntp openssh cower pacaur reflector pkgstats pkgfile tmux
+> ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs
 
 ### Other
 > dnsutils nfs-utils xorg-xev os-prober 
