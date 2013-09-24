@@ -1,8 +1,11 @@
 # Base install packages
-> base base-devel iw wpa_supplicant grub
+> base base-devel iw wpa_supplicant grub btrfs-progs
 
 # X Server
-> xorg-server xorg-server-utils xorg-xinit mesa mesa-demos xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
+> xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
+
+# KDE Install and other KDE apps
+> kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser xdg-user-dirs
 
 # Audio
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
@@ -28,9 +31,6 @@
 
 ### Other
 > dnsutils nfs-utils xorg-xev os-prober 
-
-# KDE Install and other KDE apps
-> kdebase kdemultimedia-kmix kde-gtk-config gtk gtk2 gtk3 oxygen-gtk2 oxygen-gtk3 kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kipi-plugins kdeutils-kcalc python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kdeplasma-addons-applets-showdesktop ksuperkey kamoso kdeutils-kwallet kdeutils-kgpg kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdeplasma-addons-applets-icontasks kdeadmin-kuser xdg-user-dirs
 
 # Network Manager
 > networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
