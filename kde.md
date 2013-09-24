@@ -50,7 +50,7 @@ abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl
 > ttf-mac-fonts ttf-microsoft-tahoma ttf-ms-fonts ttf-anonymous-pro emacs ttf-oxygen-git ttf-droid
 
 ### Arch Linux Utilities
-> ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs zip p7zip unzip unrar
+> ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs zip p7zip unzip unrar emacs
 
 # Applications
 
