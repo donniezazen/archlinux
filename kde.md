@@ -7,16 +7,32 @@
 # KDE Install
 > kdebase kdemultimedia-kmix kde-gtk-config gtk2 gtk3 oxygen-gtk2 oxygen-gtk3
 
+# Network Manager
+> networkmanager kdeplasma-applets-networkmanagement 
+
+networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
+
+# Bumblebee
+> bumblebee bbswitch
+
+primus lib32-primus nvidia lib32-nvidia-utils
+
 # KDE apps
 > kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kwallet kdeutils-kgpg kdeutils-ark
 
 # KDE Utilites
 > kdeplasma-addons-applets-showdesktop kdeplasma-addons-applets-icontasks ksuperkey kdebindings-python2
 
-bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
+# Bluetooth
+> bluedevil
+
 
 # Audio
-> alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
+> alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
+
+
+
+kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
 
 # Utilites
 ### Partition Manager
@@ -35,12 +51,6 @@ abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl
 
 ### Arch Linux Utilities
 > ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs zip p7zip unzip unrar
-
-# Network Manager
-> networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
-
-# Bumblebee
-> bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
 # Applications
 
