@@ -13,14 +13,14 @@
 # KDE Utilites
 > kdeplasma-addons-applets-showdesktop kdeplasma-addons-applets-icontasks ksuperkey kdebindings-python2
 
-python python2 kdebindings-python bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
+bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
 
 # Audio
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
 
 # Utilites
 ### Partition Manager
-> gparted dosfstools ntfs-3g gpart mtools
+> gparted dosfstools ntfs-3g gpart mtools nfs-utils
 
 ### Development
 > git
@@ -35,9 +35,6 @@ abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl
 
 ### Arch Linux Utilities
 > ntp openssh cower pacaur reflector pkgstats pkgfile tmux xdg-user-dirs zip p7zip unzip unrar
-
-### Other
-> dnsutils nfs-utils xorg-xev os-prober 
 
 # Network Manager
 > networkmanager kdeplasma-applets-networkmanagement networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
