@@ -8,12 +8,12 @@
 > kdebase kdemultimedia-kmix kde-gtk-config gtk2 gtk3 oxygen-gtk2 oxygen-gtk3
 
 # KDE apps
-> kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc
+> kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kwallet kdeutils-kgpg kdeutils-ark
 
 # KDE Utilites
-> kdeplasma-addons-applets-showdesktop kdeplasma-addons-applets-icontasks kdeadmin-kuser kdeutils-kwallet kdeutils-kgpg kdeutils-ark
+> kdeplasma-addons-applets-showdesktop kdeplasma-addons-applets-icontasks ksuperkey kdebindings-python2
 
-python python2 kdebindings-python kdebindings-python2 bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins ksuperkey kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
+python python2 kdebindings-python bluedevil kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers 
 
 # Audio
 > alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins gst-plugins-good gstreamer0.10-good-plugins
