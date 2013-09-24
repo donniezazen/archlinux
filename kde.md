@@ -34,7 +34,7 @@
 # Libreoffice
 > libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
-> jdk7-openjdk icedtea-web-java7 git emacs ttf-oxygen-git ttf-droid ttf-ms-fonts ntp openssh cower pacaur vlc banshee gstreamer0.10-plugins google-chrome google-talkplugin ntp openssh cower pacaur transmission-qt amarok xdg-user-dirs pkgstats pkgfile tmux skype easytag
+> jdk7-openjdk icedtea-web-java7 git emacs ttf-oxygen-git ttf-droid ttf-ms-fonts ntp openssh cower pacaur vlc banshee gstreamer0.10-plugins google-chrome google-talkplugin ntp openssh cower pacaur transmission-qt amarok xdg-user-dirs pkgstats pkgfile tmux skype easytag reflector
 
 # Print and Scanner
 > cups cups-filters ghostscript gsfonts hplip hpoj avahi samba kdeutils-print-manager sane skanlite kdegraphics-ksaneplugin
@@ -42,4 +42,4 @@
 
 
 
-kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl digikam gimp poppler-glib ttf-mac-fonts ttf-microsoft-tahoma ttf-anonymous-pro reflector zip p7zip unzip unrar google-musicmanager pipelight dropbox grsync calibre networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
+kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kio-mtp kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb wget android-sdk android-udev rxvt-unicode gtk2-perl digikam gimp poppler-glib ttf-mac-fonts ttf-microsoft-tahoma ttf-anonymous-pro zip p7zip unzip unrar google-musicmanager pipelight dropbox grsync calibre networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd
