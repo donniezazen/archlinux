@@ -34,7 +34,7 @@
 # Libreoffice
 > libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
-> jdk7-openjdk icedtea-web-java7 git emacs ttf-oxygen-git ttf-droid ttf-ms-fonts ntp openssh cower pacaur vlc banshee gstreamer0.10-plugins google-chrome google-talkplugin ntp openssh cower pacaur transmission-qt amarok xdg-user-dirs pkgstats pkgfile tmux skype easytag reflector dropbox google-musicmanager grsync calibre
+> jdk7-openjdk icedtea-web-java7 git emacs ttf-oxygen-git ttf-droid ttf-ms-fonts ntp openssh cower pacaur vlc banshee gstreamer0.10-plugins google-chrome google-talkplugin ntp openssh cower pacaur transmission-qt amarok xdg-user-dirs pkgstats pkgfile tmux skype easytag reflector dropbox google-musicmanager grsync calibre python-virtualenv python2-virtualenv python-markdown
 
 # Print and Scanner
 > cups cups-filters ghostscript gsfonts hplip hpoj avahi samba kdeutils-print-manager sane skanlite kdegraphics-ksaneplugin
