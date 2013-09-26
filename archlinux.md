@@ -2,12 +2,12 @@
 base base-devel iw wpa_supplicant grub
 
 # X Server
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri
+xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri wget git ttf-dejavu
 
-gnome gnome-extra gnome-tweak-tool networkmanager network-manager-applet wget ttf-dejavu git nautilus-open-terminal ttf-google-fonts-git ttf-ms-fonts gpaste
 
-# Network Manager
-networkmanager network-manager-applet
+gnome gnome-extra gnome-tweak-tool networkmanager network-manager-applet wget ttf-dejavu git nautilus-open-terminal ttf-droid ttf-ms-fonts gpaste
+
+
 
 # Bumblebee
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
