@@ -2,7 +2,7 @@
 base base-devel iw wpa_supplicant grub
 
 # X Server
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
+xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri
 
 # Network Manager
 networkmanager network-manager-applet
