@@ -15,11 +15,6 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 # Audio
 pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 
-=====================================================================================
-
-
-
-
 # Steam
 steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 
@@ -29,7 +24,9 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 # Print and Scanner
 cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
-skype easytag reflector nautilus-dropbox google-musicmanager grsync calibre gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb gimp poppler-glib zip p7zip unzip unrar pipelight
+=====================================================================================
+
+skype easytag reflector dropbox google-musicmanager grsync calibre gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb gimp poppler-glib zip p7zip unzip unrar pipelight
 
 =====================================================================================
 
