@@ -2,9 +2,9 @@ base base-devel iw wpa_supplicant grub btrfs-progs
 
 xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri git
 
-gnome gnome-extra gnome-tweak-tool networkmanagernautilus-open-terminal ttf-droid ttf-ms-fonts gpaste ttf-opensans ttf-anonymous-pro
+networkmanager ttf-droid ttf-ms-fonts gpaste ttf-opensans ttf-anonymous-pro
 
-ntp openssh bumblebee bbswitch infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors emacs 
+ntp openssh infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors emacs 
 
 # Power management tools
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
