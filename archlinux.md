@@ -1,19 +1,20 @@
-# Base install packages
-base base-devel iw wpa_supplicant grub
+base base-devel iw wpa_supplicant grub btrfs-progs
 
-# X Server
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri wget git ttf-dejavu
+xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri git
 
+gnome gnome-extra gnome-tweak-tool networkmanagernautilus-open-terminal ttf-droid ttf-ms-fonts gpaste ttf-opensans ttf-anonymous-pro
 
-gnome gnome-extra gnome-tweak-tool networkmanager network-manager-applet wget ttf-dejavu git nautilus-open-terminal ttf-droid ttf-ms-fonts gpaste
+ntp openssh bumblebee bbswitch infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors
+
+# Power management tools
+tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
+
+=====================================================================================
 
 
 
 # Bumblebee
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
-
-# Power management tools
-tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
 # Audio
 alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
