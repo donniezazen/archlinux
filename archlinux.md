@@ -4,10 +4,12 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 
 gnome gnome-extra gnome-tweak-tool networkmanagernautilus-open-terminal ttf-droid ttf-ms-fonts gpaste ttf-opensans ttf-anonymous-pro
 
-ntp openssh bumblebee bbswitch infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors
+ntp openssh bumblebee bbswitch infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors emacs 
 
 # Power management tools
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
+
+gimp git jdk7-openjdk icedtea-web-java7 pkgstats pkgfile vlc banshee gstreamer0.10-plugins transmission-gtk tmux
 
 =====================================================================================
 
@@ -28,11 +30,7 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 # Print and Scanner
 cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane 
 
-git emacs jdk7-openjdk icedtea-web-java7 ttf-ms-fonts ntp openssh cower pacaur vlc banshee gstreamer0.10-plugins google-chrome google-talkplugin ntp openssh cower pacaur transmission-gtk pkgstats pkgfile tmux skype easytag reflector nautilus-dropbox google-musicmanager grsync calibre gvfs gvfs-goa gvfs-gphoto2 gvfs-mtp gvfs-smb
-
-
-=====================================================================================
-
+skype easytag reflector nautilus-dropbox google-musicmanager grsync calibre gvfs gvfs-goa gvfs-gphoto2 gvfs-mtp gvfs-smb
 
 gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb gimp poppler-glib ttf-mac-fonts ttf-microsoft-tahoma zip p7zip unzip unrar pipelight
 
