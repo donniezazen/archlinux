@@ -10,16 +10,12 @@ ntp openssh bumblebee bbswitch infinality-bundle cower pacaur google-chrome goog
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
 gimp git jdk7-openjdk icedtea-web-java7 pkgstats pkgfile vlc banshee gstreamer0.10-plugins transmission-gtk tmux
-
 =====================================================================================
-
-
-
 # Bumblebee
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
 # Audio
-alsa-utils pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
+pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 
 # Steam
 steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
@@ -33,7 +29,6 @@ cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane
 skype easytag reflector nautilus-dropbox google-musicmanager grsync calibre gvfs gvfs-goa gvfs-gphoto2 gvfs-mtp gvfs-smb
 
 gparted dosfstools ntfs-3g gpart mtools nfs-utils abs gdb gimp poppler-glib ttf-mac-fonts ttf-microsoft-tahoma zip p7zip unzip unrar pipelight
-
 
 =====================================================================================
 
