@@ -1,3 +1,11 @@
+Arch Linux dot Files
+====================
+
+* ~/.bashrc
+* ~/.Xresources
+* /etc/fstab
+
+
 base base-devel iw wpa_supplicant grub btrfs-progs
 
 xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri git btrfs-progs ttf-dejavu
@@ -23,6 +31,8 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 
 # Print and Scanner
 cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
+
+ttf-monoOne-git caffeine-bzr
 
 =====================================================================================
 
