@@ -28,7 +28,7 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
-usb_modeswitch truecrypt
+usb_modeswitch wvdial truecrypt
 
 
 
