@@ -8,7 +8,7 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-networkmanagement kdebindings-python2 kdeutils-kwallet bluedevil
 
 ## Other Utilities
-ntp openssh ttf-ms-fonts ttf-mac-fonts ttf-anonymous-pro ttf-oxygen-fonts-git infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors emacs jdk7-openjdk icedtea-web-java7 pkgstats pkgfile vlc banshee gstreamer0.10-plugins transmission-qt tmux gimp kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark ksuperkey reflector dropbox nfs-utils skype easytag google-musicmanager grsync calibre gimp poppler-glib kio-mtp pipelight kdebindings-python
+ntp openssh ttf-ms-fonts ttf-mac-fonts ttf-anonymous-pro ttf-oxygen-fonts-git infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors emacs pkgstats pkgfile vlc banshee gstreamer0.10-plugins transmission-qt tmux gimp kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark ksuperkey reflector dropbox nfs-utils skype easytag google-musicmanager grsync calibre gimp poppler-glib kio-mtp pipelight kdebindings-python
 
 ## Power management tools
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
@@ -28,7 +28,7 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
-usb_modeswitch wvdial truecrypt gparted dosfstools ntfs-3g gpart mtools zip p7zip unzip unrar ttf-indic-otf lohit-fonts
+usb_modeswitch wvdial truecrypt gparted dosfstools ntfs-3g gpart mtools zip p7zip unzip unrar ttf-indic-otf lohit-fonts jdk
 
 
 
