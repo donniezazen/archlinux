@@ -1,17 +1,17 @@
 # Base
-base base-devel iw wpa_supplicant grub btrfs-progs
+base base-devel iw wpa_supplicant grub os-prober
 
 ## X
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri git btrfs-progs ttf-dejavu
+xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
 
-## KDE Utilites
-kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-networkmanagement kdebindings-python2 kdeutils-kwallet bluedevil
+## KDE Base
+kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-networkmanagement
 
 ## Other Utilities
-ntp openssh ttf-ms-fonts ttf-mac-fonts ttf-anonymous-pro ttf-oxygen-fonts-git infinality-bundle cower pacaur google-chrome google-talkplugin lm_sensors emacs pkgstats pkgfile vlc banshee gstreamer0.10-plugins transmission-qt tmux gimp kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark ksuperkey reflector dropbox nfs-utils skype easytag google-musicmanager grsync calibre gimp poppler-glib kio-mtp pipelight kdebindings-python
+ntp openssh ttf-ms-fonts ttf-mac-fonts ttf-monoone-git infinality-bundle cower pacaur google-chrome google-talkplugin emacs vlc banshee easytag gstreamer0.10-plugins transmission-qt pkgstats pkgfile kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark kio-mtp kdeutils-kwallet ksuperkey reflector dropbox skype google-musicmanager kdebindings-python2 bluedevil kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop
 
 ## Power management tools
-tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
+lm_sensors thermald-git tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
 ## Bumblebee
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
@@ -26,7 +26,7 @@ steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
 ## Print and Scanner
-cups cups-filters ghostscript gsfonts hplip hpoj avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
+cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
 usb_modeswitch wvdial truecrypt gparted dosfstools ntfs-3g gpart mtools zip p7zip unzip unrar ttf-indic-otf lohit-fonts jdk
 
