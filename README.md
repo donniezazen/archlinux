@@ -1,11 +1,11 @@
 # Base
-base base-devel iw wpa_supplicant grub os-prober
+base base-devel iw wpa_supplicant grub btrfs-progs
 
 ## X
 xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
 
 ## KDE Base
-kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-networkmanagement
+kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-plasma-nm
 
 ## Other Utilities
 ntp openssh ttf-ms-fonts ttf-mac-fonts ttf-monoone-git infinality-bundle cower pacaur google-chrome google-talkplugin emacs vlc banshee easytag gstreamer0.10-plugins transmission-qt pkgstats pkgfile kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark kio-mtp kdeutils-kwallet ksuperkey reflector dropbox skype google-musicmanager kdebindings-python2 bluedevil kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop
