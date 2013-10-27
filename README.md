@@ -11,7 +11,7 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop transmission-qt kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr
+ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop transmission-qt kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre
 
 ## Multimedia 
 vlc banshee easytag gstreamer0.10-plugins google-musicmanager
