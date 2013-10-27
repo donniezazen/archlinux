@@ -7,8 +7,11 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 ## KDE Base
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-plasma-nm
 
+## Fonts
+infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
+
 ## Other Utilities
-ntp openssh infinality-bundle infinality-bundle-fonts infinality-bundle-fonts-extra cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop ktorrent kdeutils-kwallet kdebindings-python2 kdeutils-ark
+ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop ktorrent kdeutils-kwallet kdebindings-python2 kdeutils-ark
 
 
 
