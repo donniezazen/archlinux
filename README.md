@@ -8,7 +8,11 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-plasma-nm
 
 ## Other Utilities
-ntp openssh ttf-ms-fonts ttf-mac-fonts ttf-monoone-git infinality-bundle cower pacaur google-chrome google-talkplugin emacs vlc banshee easytag gstreamer0.10-plugins transmission-qt pkgstats pkgfile kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark kio-mtp kdeutils-kwallet ksuperkey reflector dropbox skype google-musicmanager kdebindings-python2 bluedevil kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop
+ntp openssh infinality-bundle infinality-bundle-fonts infinality-bundle-fonts-extra cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop
+
+
+
+vlc banshee easytag gstreamer0.10-plugins transmission-qt pkgstats pkgfile kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kdeutils-ark kio-mtp kdeutils-kwallet ksuperkey reflector dropbox skype google-musicmanager kdebindings-python2 bluedevil
 
 ## Power management tools
 lm_sensors thermald-git tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
