@@ -34,8 +34,8 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
+## USB 3G Modem
 usb_modeswitch wvdial truecrypt gparted dosfstools ntfs-3g gpart mtools zip p7zip unzip unrar ttf-indic-otf lohit-fonts jdk
 
-
-
+# Others
 kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers
