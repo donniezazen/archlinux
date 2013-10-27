@@ -8,14 +8,13 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-plasma-nm
 
 ## Fonts
-infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
+infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra ttf-monoone-git ttf-ms-fonts ttf-mac-fonts
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop ktorrent kdeutils-kwallet kdebindings-python2 kdeutils-ark
+ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop transmission-qt kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular 
 
 
-
-vlc banshee easytag gstreamer0.10-plugins pkgstats pkgfile kdegraphics-okular kdegraphics-gwenview kdegraphics-ksnapshot kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp ksuperkey reflector dropbox skype google-musicmanager  bluedevil
+kdeutils-ark vlc banshee easytag gstreamer0.10-plugins pkgstats pkgfile  kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp ksuperkey reflector dropbox skype google-musicmanager bluedevil
 
 ## Power management tools
 lm_sensors thermald-git tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
