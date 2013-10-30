@@ -14,7 +14,7 @@ infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-
 ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop transmission-qt kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip kdepim-kontact kdepim-kmail networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd networkmanager-dispatcher-dropbox-systemd
 
 ## Multimedia 
-vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs
+vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-vdpau-driver libva-intel-driver
 
 ## Power management tools
 lm_sensors thermald-git tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
