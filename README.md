@@ -8,7 +8,7 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-plasma-nm
 
 ## Fonts
-infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra ttf-monoone-git ttf-ms-win8 ttf-mac-fonts
+infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
 
 ## Other Utilities
 ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop transmission-qt kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip kdepim-kontact kdepim-kmail networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd networkmanager-dispatcher-dropbox-systemd
