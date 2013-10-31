@@ -35,7 +35,7 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
 ## Android
-android-sdk (manually & possible dependencies - lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev 
+android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev 
 
 
 -----------Waiting Installation------------------
