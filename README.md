@@ -38,11 +38,11 @@ cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager sk
 android-sdk (manually & possible dependencies - lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev 
 
 
+-----------Waiting Installation------------------
 
 
-
-## USB 3G Modem
+### USB 3G Modem
 usb_modeswitch wvdial truecrypt zip p7zip unrar ttf-indic-otf lohit-fonts jdk
 
-# Others
+### Others
 kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers
