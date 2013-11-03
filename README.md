@@ -5,13 +5,19 @@ base base-devel iw wpa_supplicant grub btrfs-progs
 xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
 
 ## KDE Base
-kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs networkmanager kdeplasma-applets-plasma-nm
+kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs 
+
+## NetworkManager
+networkmanager kdeplasma-applets-plasma-nm networkmanager-dispatcher-sshd networkmanager-dispatcher-dropbox-systemd networkmanager-dispatcher-ntpd
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
 
+## K Utilities
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole digikam
+
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop transmission-qt kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip kdepim-kontact kdepim-kmail networkmanager-dispatcher-ntpd networkmanager-dispatcher-sshd networkmanager-dispatcher-dropbox-systemd whois gparted dosfstools ntfs-3g gpart mtools grsync kdepim-akonadiconsole digikam wine wine_gecko wine-mono dropbox-cli dropbox-kde-systray-icons kde-servicemenus-dropbox dolphin-box-plugin-git gimp poppler-glib blender
+ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox-cli dropbox-kde-systray-icons kde-servicemenus-dropbox dolphin-box-plugin-git gimp poppler-glib blender
 
 ## Multimedia 
 vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
