@@ -14,10 +14,13 @@ networkmanager kdeplasma-applets-plasma-nm networkmanager-dispatcher-sshd networ
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
 
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole digikam
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole
+
+## Graphics
+digikam gimp poppler-glib blender
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox-cli dropbox-kde-systray-icons kde-servicemenus-dropbox dolphin-box-plugin-git gimp poppler-glib blender
+ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox-cli dropbox-kde-systray-icons kde-servicemenus-dropbox dolphin-box-plugin-git jdk jre6-compat jdk6-compat eclipse truecrypt
 
 ## Multimedia 
 vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
@@ -48,7 +51,7 @@ android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncur
 
 
 ### USB 3G Modem
-usb_modeswitch wvdial truecrypt zip p7zip unrar ttf-indic-otf lohit-fonts jdk
+usb_modeswitch wvdial ttf-indic-otf lohit-fonts
 
 ### Others
 kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers
