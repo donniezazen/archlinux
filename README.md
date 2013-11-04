@@ -8,7 +8,7 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs 
 
 ## NetworkManager
-networkmanager kdeplasma-applets-plasma-nm networkmanager-dispatcher-sshd networkmanager-dispatcher-dropbox-systemd networkmanager-dispatcher-ntpd
+networkmanager kdeplasma-applets-plasma-nm networkmanager-dispatcher-sshd networkmanager-dispatcher-ntpd
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
@@ -20,7 +20,7 @@ kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils
 digikam gimp poppler-glib blender
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox-cli dropbox-kde-systray-icons kde-servicemenus-dropbox dolphin-box-plugin-git jdk jre6-compat jdk6-compat eclipse truecrypt
+ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector dropbox skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git jdk jre6-compat jdk6-compat eclipse truecrypt
 
 ## Multimedia 
 vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
