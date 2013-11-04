@@ -1,5 +1,5 @@
 # Base
-base base-devel iw wpa_supplicant grub btrfs-progs
+base base-devel iw wpa_supplicant grub btrfs-progs snapper
 
 ## X
 xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
