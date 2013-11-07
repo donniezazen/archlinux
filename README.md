@@ -20,7 +20,7 @@ kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils
 digikam gimp poppler-glib blender
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono truecrypt dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
+ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono truecrypt dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git 
 
 ## Multimedia 
 vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
@@ -43,8 +43,8 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
-## Android & Development
-android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev eclipse jdk jre6-compat jdk6-compat
+## Development
+android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev eclipse jdk jre6-compat jdk6-compat kdevelop qtcreator
 
 
 -----------Waiting Installation------------------
