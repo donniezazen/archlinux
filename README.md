@@ -20,7 +20,7 @@ kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils
 digikam gimp poppler-glib blender
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono truecrypt dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git 
+ntp openssh cower pacaur google-chrome google-talkplugin emacs emacs-org-mode transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar whois gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono truecrypt dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
 ## Multimedia 
 vlc banshee easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
