@@ -16,7 +16,7 @@ networkmanager kdeplasma-applets-plasma-nm
 
 ## Fonts
 
-```bash
+```
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
 ```
 
