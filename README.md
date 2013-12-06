@@ -7,27 +7,20 @@ xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel l
 ## KDE Base
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs 
 
-
-
-
-
 ## NetworkManager
 networkmanager kdeplasma-applets-plasma-nm
 
 ## Fonts
-
-```
-infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
-```
+infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
 
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python redshift pygtk python2-xdg kdeplasma-applets-redshift
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot
 
 
-kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
+kdegraphics-okular kdeutils-ark ksuperkey kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
 
 ## Graphics
-digikam gimp poppler-glib blender
+digikam gimp poppler-glib blender krita inkscape
 
 ## Other Utilities
 ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt
