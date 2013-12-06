@@ -21,7 +21,7 @@ infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-
 ```
 
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python redshift pygtk python2-xdg kdeplasma-applets-redshift
 
 
 kdegraphics-ksnapshot kdegraphics-okular kdeutils-ark ksuperkey kdegraphics-gwenview kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
