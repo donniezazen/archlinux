@@ -2,13 +2,13 @@
 base base-devel iw wpa_supplicant grub btrfs-progs snapper
 
 ## X
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
+xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri mesa ttf-dejavu
 
 ## KDE Base
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs 
 
 ## NetworkManager
-networkmanager kdeplasma-applets-plasma-nm networkmanager-dispatcher-sshd networkmanager-dispatcher-ntpd
+networkmanager kdeplasma-applets-plasma-nm
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
