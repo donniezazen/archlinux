@@ -27,7 +27,7 @@ ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt
 
 
 
-pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono truecrypt dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
+pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
 ## Multimedia 
 amarok banshee
