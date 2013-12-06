@@ -15,7 +15,10 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 networkmanager kdeplasma-applets-plasma-nm
 
 ## Fonts
+
+```bash
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts infinality-bundle-fonts-extra
+```
 
 ## K Utilities
 kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python
