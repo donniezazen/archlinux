@@ -28,6 +28,9 @@ emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dol
 ## Power Management
 lm_sensors thinkfan
 
+## Libreoffice
+libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
+
 
 -------------------------------------------------------------------------------------
 
@@ -54,9 +57,6 @@ pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 
 ## Steam
 steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
-
-## Libreoffice
-libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
