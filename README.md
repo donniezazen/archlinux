@@ -22,8 +22,6 @@ android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncur
 
 kdeutils-kwallet  redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark  kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
 
-
-
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
 
@@ -33,13 +31,10 @@ digikam gimp poppler-glib blender krita inkscape
 ## Other Utilities
 transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
-
-
 ## Multimedia 
-amarok banshee
+amarok banshee easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
 
-easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
-
+## Power Management
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
 ## Bumblebee
