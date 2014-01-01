@@ -10,26 +10,35 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 ## NetworkManager
 networkmanager kdeplasma-applets-plasma-nm
 
-## Random
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 lm_sensors thinkfan wget unzip snapper ksuperkey emacs ntp openssh cower pacaur google-chrome google-talkplugin gstreamer0.10-plugins vlc 
+## K Utilities
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey
 
 ## Development
 android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
+
+## Multimedia
+vlc gstreamer0.10-plugins
+
+## Internet
+google-chrome google-talkplugin
+
+## Utilities
+emacs ntp openssh cower pacaur wget unzip snapper dropbox
+
+## Power Management
+lm_sensors thinkfan
 
 
 -------------------------------------------------------------------------------------
 
 
-kdeutils-kwallet  redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark  kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
+kdeutils-kwallet kdeutils-kgpg kio-mtp kdeutils-kcalc kdeadmin-kuser kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources redshift pygtk python2-xdg appmenu-qt kdeplasma-applets-menubar quassel-client transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
 
 ## Graphics
 digikam gimp poppler-glib blender krita inkscape
-
-## Other Utilities
-transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
 ## Multimedia 
 amarok banshee easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
