@@ -23,7 +23,7 @@ vlc gstreamer0.10-plugins
 google-chrome google-talkplugin
 
 ## Utilities
-emacs ntp openssh cower pacaur wget unzip snapper dropbox
+emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git
 
 ## Power Management
 lm_sensors thinkfan
@@ -32,7 +32,7 @@ lm_sensors thinkfan
 -------------------------------------------------------------------------------------
 
 
-kdeutils-kwallet kdeutils-kgpg kio-mtp kdeutils-kcalc kdeadmin-kuser kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources redshift pygtk python2-xdg appmenu-qt kdeplasma-applets-menubar quassel-client transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
+kdeutils-kwallet kdeutils-kgpg kio-mtp kdeutils-kcalc kdeadmin-kuser kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources redshift pygtk python2-xdg appmenu-qt kdeplasma-applets-menubar quassel-client transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
