@@ -10,11 +10,19 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 ## NetworkManager
 networkmanager kdeplasma-applets-plasma-nm
 
-## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot wget unzip
+## Random
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 lm_sensors thinkfan wget unzip snapper ksuperkey emacs ntp openssh cower pacaur google-chrome google-talkplugin gstreamer0.10-plugins vlc 
+
+## Development
+android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
 
 
-kdegraphics-okular kdeutils-ark ksuperkey kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client btrfs-progs snapper
+-------------------------------------------------------------------------------------
+
+
+kdeutils-kwallet  redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark  kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
+
+
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
@@ -23,21 +31,14 @@ infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-
 digikam gimp poppler-glib blender krita inkscape
 
 ## Other Utilities
-ntp openssh cower pacaur google-chrome google-talkplugin emacs transmission-qt
+transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
 
-
-pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre unzip zip p7zip unrar gparted dosfstools ntfs-3g gpart mtools grsync wine wine_gecko wine-mono dropbox networkmanager-dispatcher-dropbox-systemd dropbox-cli kde-servicemenus-dropbox dolphin-box-plugin-git
 
 ## Multimedia 
 amarok banshee
 
-
-vlc easytag gstreamer0.10-plugins google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
-
-## Power management tools
-lm_sensors 
-
+easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
 
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
@@ -55,13 +56,6 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
-
-## Development
-android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
-
-
------------Waiting Installation------------------
-
 
 ### USB 3G Modem
 usb_modeswitch wvdial ttf-indic-otf lohit-fonts
