@@ -31,9 +31,7 @@ lm_sensors thinkfan
 ## Libreoffice
 libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
 
-
 -------------------------------------------------------------------------------------
-
 
 kdeutils-kwallet kdeutils-kgpg kio-mtp kdeutils-kcalc kdeadmin-kuser kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot  kdegraphics-okular kdeutils-ark bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources redshift pygtk python2-xdg appmenu-qt kdeplasma-applets-menubar quassel-client transmission-qt pkgstats pkgfile reflector skype bluedevil caffeine-bzr calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
