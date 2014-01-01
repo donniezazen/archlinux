@@ -1,8 +1,8 @@
 # Base
-base base-devel iw wpa_supplicant grub btrfs-progs snapper
+base base-devel iw wpa_supplicant grub
 
 ## X
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri mesa ttf-dejavu
+xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
 
 ## KDE Base
 kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs 
@@ -10,14 +10,14 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 ## NetworkManager
 networkmanager kdeplasma-applets-plasma-nm
 
+## K Utilities
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot wget unzip
+
+
+kdegraphics-okular kdeutils-ark ksuperkey kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client btrfs-progs snapper
+
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
-
-## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdeutils-kwallet kdebindings-python2 kdebindings-python redshift pygtk python2-xdg kdeplasma-applets-redshift kdegraphics-gwenview kdegraphics-ksnapshot
-
-
-kdegraphics-okular kdeutils-ark ksuperkey kdeutils-kcalc kdeadmin-kuser kdeutils-kgpg kio-mtp bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole appmenu-qt kdeplasma-applets-menubar kdepim-kaddressbook kdepim-korganizer kdepim-kresources quassel-client
 
 ## Graphics
 digikam gimp poppler-glib blender krita inkscape
@@ -57,7 +57,7 @@ libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreof
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
 ## Development
-android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev eclipse jdk jre6-compat jdk6-compat kdevelop qtcreator
+android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
 
 
 -----------Waiting Installation------------------
