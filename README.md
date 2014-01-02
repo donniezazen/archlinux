@@ -37,6 +37,9 @@ steam libtxc_dxtn lib32-libtxc_dxtn wqy-zenhei lib32-flashplugin
 ## Audio
 pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 
+## Bumblebee
+bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
+
 -------------------------------------------------------------------------------------
 
 ## K
@@ -57,9 +60,6 @@ amarok banshee easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumb
 
 ## Power Management
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
-
-## Bumblebee
-bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
