@@ -11,7 +11,7 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 networkmanager kdeplasma-applets-plasma-nm
 
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview 
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil
 
 ## Development
 android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
@@ -43,7 +43,7 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 -------------------------------------------------------------------------------------
 
 ## K
-kdeutils-kwallet kdeutils-kgpg  kdeadmin-kuser kdegraphics-okular bluedevil kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
+kdeutils-kwallet kdeutils-kgpg  kdeadmin-kuser kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
 
 ## Utils
 
