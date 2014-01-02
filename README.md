@@ -11,16 +11,16 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 networkmanager kdeplasma-applets-plasma-nm
 
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil deutils-kwallet kdeutils-kgpg kdeadmin-kuser kdepim-knode kdepim-kmail kdepim-kontact
 
 ## Development
 android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
 
 ## Multimedia
-vlc gstreamer0.10-plugins
+vlc gstreamer0.10-plugins amarok banshee easytag
 
 ## Internet
-google-chrome google-talkplugin skype
+google-chrome google-talkplugin skype transmission-qt
 
 ## Utilities
 emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git demiecode redshift kdeplasma-applets-redshift caffeine-systray
@@ -40,14 +40,17 @@ pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 ## Bumblebee
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
+## Power Management
+tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
+
 -------------------------------------------------------------------------------------
 
 ## K
-kdeutils-kwallet kdeutils-kgpg  kdeadmin-kuser kdepim-kmail kdepim-kontact kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
+kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
 
 ## Utils
 
-quassel-client transmission-qt pkgstats pkgfile reflector calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
+quassel pkgstats pkgfile reflector calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
@@ -56,10 +59,7 @@ infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-
 digikam gimp poppler-glib blender krita inkscape
 
 ## Multimedia 
-amarok banshee easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
-
-## Power Management
-tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
+google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
 
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
