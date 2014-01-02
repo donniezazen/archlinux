@@ -23,7 +23,7 @@ vlc gstreamer0.10-plugins
 google-chrome google-talkplugin skype
 
 ## Utilities
-emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git demiecode redshift kdeplasma-applets-redshift
+emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git demiecode redshift kdeplasma-applets-redshift caffeine-systray
 
 ## Power Management
 lm_sensors thinkfan
@@ -44,7 +44,7 @@ kdeutils-kwallet kdeutils-kgpg  kdeadmin-kuser kdegraphics-okular bluedevil kdep
 
 ## Utils
 
-quassel-client transmission-qt pkgstats pkgfile reflector caffeine-bzr calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
+quassel-client transmission-qt pkgstats pkgfile reflector calibre zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
