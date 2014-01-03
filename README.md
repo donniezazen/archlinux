@@ -23,7 +23,7 @@ vlc gstreamer0.10-plugins amarok banshee easytag
 google-chrome google-talkplugin skype transmission-qt
 
 ## Utilities
-emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git demiecode redshift kdeplasma-applets-redshift caffeine-systray calibre
+emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git demiecode redshift kdeplasma-applets-redshift caffeine-systray calibre quassel-client pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools
 
 ## Power Management
 lm_sensors thinkfan
@@ -44,7 +44,7 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
 ## Graphics
-digikam gimp poppler-glib blender krita inkscape
+digikam gimp poppler-glib blender calligra-krita inkscape
 
 ## Infinality Bundle
 infinality-bundle infinality-bundle-multilib ibfonts-meta-base
@@ -57,7 +57,7 @@ gnome-themes-standard gnome-icon-theme gnome-icon-theme-extras
 kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
 
 ## Utils
-quassel pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
+ wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
 ## Fonts
 gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid
