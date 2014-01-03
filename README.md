@@ -46,8 +46,10 @@ tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 ## Graphics
 digikam gimp poppler-glib blender krita inkscape
 
--------------------------------------------------------------------------------------
+## Infinality Bundle
+infinality-bundle infinality-bundle-multilib ibfonts-meta-base
 
+-------------------------------------------------------------------------------------
 ## K
 kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
 
@@ -56,7 +58,7 @@ kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kd
 quassel pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
 ## Fonts
-infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
+gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid
 
 ## Multimedia 
 google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
@@ -69,4 +71,3 @@ usb_modeswitch wvdial ttf-indic-otf lohit-fonts
 
 ### Others
 kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers
-
