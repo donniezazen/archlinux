@@ -49,6 +49,9 @@ digikam gimp poppler-glib blender krita inkscape
 ## Infinality Bundle
 infinality-bundle infinality-bundle-multilib ibfonts-meta-base
 
+## Artworks
+gnome-themes-standard gnome-icon-theme gnome-icon-theme-extras
+
 -------------------------------------------------------------------------------------
 ## K
 kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
