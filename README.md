@@ -57,7 +57,7 @@ google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver li
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
 ### USB 3G Modem
-usb_modeswitch wvdial ttf-indic-otf lohit-fonts
+usb_modeswitch wvdial
 
 ### Others
-kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
+kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid ttf-indic-otf lohit-fonts 
