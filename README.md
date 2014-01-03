@@ -11,7 +11,7 @@ kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-
 networkmanager kdeplasma-applets-plasma-nm
 
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil deutils-kwallet kdeutils-kgpg kdeadmin-kuser kdepim-knode kdepim-kmail kdepim-kontact
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil deutils-kwallet kdeutils-kgpg kdeadmin-kuser kdepim-knode kdepim-kmail kdepim-kontact kdepim-akonadiconsole
 
 ## Development
 android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
@@ -56,4 +56,4 @@ cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager sk
 usb_modeswitch wvdial
 -------------------------------------------------------------------------------------
 ### Others
-kdesdk-kioslaves kdesdk-dolphin-plugins kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid ttf-indic-otf lohit-fonts
+kdesdk-kioslaves kdesdk-dolphin-plugins kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers  kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid ttf-indic-otf lohit-fonts
