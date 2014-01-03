@@ -17,7 +17,7 @@ kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindi
 android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
 
 ## Multimedia
-vlc gstreamer0.10-plugins amarok banshee easytag
+vlc gstreamer0.10-plugins amarok banshee easytag google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl kdesdk-thumbnailers 
 
 ## Internet
 google-chrome google-talkplugin skype transmission-qt
@@ -41,7 +41,7 @@ pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
 ## Graphics
-digikam gimp poppler-glib blender calligra-krita inkscape
+digikam gimp poppler-glib blender calligra-krita inkscape kamoso
 
 ## Infinality Bundle
 infinality-bundle infinality-bundle-multilib ibfonts-meta-base
@@ -49,15 +49,11 @@ infinality-bundle infinality-bundle-multilib ibfonts-meta-base
 ## Artworks
 gnome-themes-standard gnome-icon-theme gnome-icon-theme-extras
 
--------------------------------------------------------------------------------------
-## Multimedia 
-google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
-
 ## Print and Scanner
 cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager skanlite kdegraphics-ksaneplugin
 
 ### USB 3G Modem
 usb_modeswitch wvdial
-
+-------------------------------------------------------------------------------------
 ### Others
-kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid ttf-indic-otf lohit-fonts 
+kdesdk-kioslaves kdesdk-dolphin-plugins kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid ttf-indic-otf lohit-fonts
