@@ -43,6 +43,9 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 ## Power Management
 tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
 
+## Graphics
+digikam gimp poppler-glib blender krita inkscape
+
 -------------------------------------------------------------------------------------
 
 ## K
@@ -55,8 +58,7 @@ quassel pkgstats pkgfile reflector calibre zip p7zip unzip unrar gparted dosfsto
 ## Fonts
 infinality-bundle gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid infinality-bundle-fonts infinality-bundle-fonts-extra
 
-## Graphics
-digikam gimp poppler-glib blender krita inkscape
+
 
 ## Multimedia 
 google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
