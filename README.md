@@ -54,7 +54,6 @@ infinality-bundle infinality-bundle-multilib ibfonts-meta-base
 kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
 
 ## Utils
-
 quassel pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
 
 ## Fonts
