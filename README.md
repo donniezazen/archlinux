@@ -23,10 +23,10 @@ vlc gstreamer0.10-plugins amarok banshee easytag
 google-chrome google-talkplugin skype transmission-qt
 
 ## Utilities
-emacs ntp openssh cower pacaur wget unzip snapper grsync dropbox dropbox-cli dolphin-box-plugin-git demiecode redshift kdeplasma-applets-redshift caffeine-systray calibre quassel-client pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools
+emacs ntp openssh cower pacaur wget snapper grsync dropbox dropbox-cli dolphin-box-plugin-git kde-servicemenus-dropbox demiecode redshift kdeplasma-applets-redshift caffeine-systray calibre quassel-client pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono
 
 ## Power Management
-lm_sensors thinkfan
+lm_sensors thinkfan tlp tlp-rdw smartmontools tp_smapi acpid htop powertop
 
 ## Libreoffice
 libreoffice-{en-US,kde4,writer,calc,impress} {hunspell,mythes,hyphen}-en libreoffice-extension-languagetool
@@ -40,9 +40,6 @@ pulseaudio pulseaudio-alsa lib32-libpulse lib32-alsa-plugins
 ## Bumblebee
 bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 
-## Power Management
-tlp tlp-rdw smartmontools tp_smapi acpid htop powertop thinkfan
-
 ## Graphics
 digikam gimp poppler-glib blender calligra-krita inkscape
 
@@ -53,15 +50,6 @@ infinality-bundle infinality-bundle-multilib ibfonts-meta-base
 gnome-themes-standard gnome-icon-theme gnome-icon-theme-extras
 
 -------------------------------------------------------------------------------------
-## K
-kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
-
-## Utils
- wine wine_gecko wine-mono networkmanager-dispatcher-dropbox-systemd kde-servicemenus-dropbox
-
-## Fonts
-gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid
-
 ## Multimedia 
 google-musicmanager kdemultimedia-ffmpegthumbs audiothumbs libva-intel-driver libvdpau-va-gl
 
@@ -72,4 +60,4 @@ cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager sk
 usb_modeswitch wvdial ttf-indic-otf lohit-fonts
 
 ### Others
-kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers
+kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
