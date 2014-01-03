@@ -60,4 +60,4 @@ cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager sk
 usb_modeswitch wvdial ttf-indic-otf lohit-fonts
 
 ### Others
-kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gsfonts ttf-liberation xorg-fonts-type1 ttf-mph-2b-damase ttf-droid kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
+kdesdk-kioslaves kdesdk-dolphin-plugins kamoso kdesdk-thumbnailers kdemultimedia-ffmpegthumbs audiothumbs kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid kdepim-akonadiconsole kdepim-kaddressbook kdepim-korganizer kdepim-kresources kdeplasma-applets-menubar appmenu-qt
