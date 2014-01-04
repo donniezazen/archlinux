@@ -23,7 +23,7 @@ vlc gstreamer0.10-plugins amarok banshee easytag google-musicmanager kdemultimed
 google-chrome google-talkplugin skype transmission-qt
 
 ## Utilities
-emacs ntp openssh cower pacaur wget snapper grsync dropbox dropbox-cli dolphin-box-plugin-git kde-servicemenus-dropbox demiecode redshift kdeplasma-applets-redshift caffeine-systray calibre quassel-client pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono
+emacs ntp openssh cower pacaur wget snapper grsync dropbox dropbox-cli dolphin-box-plugin-git kde-servicemenus-dropbox demiecode redshift kdeplasma-applets-redshift caffeine-systray calibre quassel-client pkgstats pkgfile reflector zip p7zip unzip unrar gparted dosfstools ntfs-3g gpart mtools wine wine_gecko wine-mono lftp notify-osd parallel command-not-found
 
 ## Power Management
 lm_sensors thinkfan tlp tlp-rdw smartmontools tp_smapi acpid htop powertop
