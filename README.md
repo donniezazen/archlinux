@@ -44,7 +44,7 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 digikam gimp poppler-glib blender calligra-krita inkscape kamoso
 
 ## Infinality Bundle & Fonts
-infinality-bundle infinality-bundle-multilib ibfonts-meta-base lohit-fonts (Hindi Fonts) ttf-tlwg (Thai fonts)
+infinality-bundle infinality-bundle-multilib ibfonts-meta-base lohit-fonts (Hindi Fonts) ttf-tlwg (Thai fonts) ttf-arphic-uming (CJK)
 
 ## Artworks
 gnome-themes-standard gnome-icon-theme gnome-icon-theme-extras
