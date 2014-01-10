@@ -44,7 +44,7 @@ bumblebee bbswitch primus lib32-primus nvidia lib32-nvidia-utils
 digikam gimp poppler-glib blender calligra-krita inkscape kamoso
 
 ## Infinality Bundle & Fonts
-infinality-bundle infinality-bundle-multilib ibfonts-meta-base lohit-fonts
+infinality-bundle infinality-bundle-multilib ibfonts-meta-base lohit-fonts (Hindi Fonts) ttf-tlwg (Thai fonts)
 
 ## Artworks
 gnome-themes-standard gnome-icon-theme gnome-icon-theme-extras
@@ -59,3 +59,4 @@ usb_modeswitch wvdial
 ### Others
 kdesdk-kioslaves kdesdk-dolphin-plugins kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers  kdepim-kaddressbook kdepim-korganizer kde
 pim-kresources kdeplasma-applets-menubar appmenu-qt gsfonts xorg-fonts-type1 ttf-mph-2b-damase ttf-droid ttf-indic-otf lohit-fonts
+
