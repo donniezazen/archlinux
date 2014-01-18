@@ -55,6 +55,9 @@ cups cups-filters ghostscript gsfonts avahi samba sane kdeutils-print-manager sk
 ### USB 3G Modem
 usb_modeswitch wvdial
 
+### Virtualization
+qemu virt-manager virtviewer dnsmasq
+
 -------------------------------------------------------------------------------------
 ### Others
 kdesdk-kioslaves kdesdk-dolphin-plugins kdegraphics-strigi-analyzer kdenetwork-strigi-analyzers kdesdk-strigi-analyzers  kdepim-kaddressbook kdepim-korganizer kde
