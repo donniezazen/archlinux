@@ -8,4 +8,4 @@
 ~/etc/thinkfan.conf
 ~/etc/modprobe.d/nobeep.conf
 ~/etc/modprobe.d/acpi_thinkpad.con
-
+~/.grsync/exclude.txt
