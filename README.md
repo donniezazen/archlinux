@@ -2,16 +2,28 @@
 base base-devel iw wpa_supplicant grub
 
 ## X
-xorg-server xorg-server-utils xorg-xinit xf86-input-synaptics xf86-video-intel lib32-intel-dri ttf-dejavu
+xorg-server xorg-server-utils xf86-input-synaptics xf86-video-intel lib32-intel-dri
 
 ## KDE Base
-kdebase kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3 xdg-user-dirs 
+kdebase ttf-dejavu xdg-user-dirs kdemultimedia-kmix gtk2 gtk3 kde-gtk-config oxygen-gtk2 oxygen-gtk3
 
 ## NetworkManager
 networkmanager kdeplasma-applets-plasma-nm
 
+## Utilities
+wget ntp openssh cronie cower pacaur google-chrome google-talkplugin
+
+## KDE Utilities
+kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop archlinux-themes-kdm
+
+## Fonts
+ttf-liberation ttf-ms-fonts
+
+
+
+
 ## K Utilities
-kdeplasma-addons-applets-icontasks kdeplasma-addons-applets-showdesktop kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil deutils-kwallet kdeutils-kgpg kdeadmin-kuser kdepim-knode kdepim-kmail kdepim-kontact kdepim-akonadiconsole
+kdebindings-python2 ksuperkey kdegraphics-ksnapshot kdeutils-ark kdegraphics-gwenview kio-mtp kdeutils-kcalc kdegraphics-gwenview kdegraphics-okular bluedevil kdeutils-kwallet kdeutils-kgpg kdeadmin-kuser kdepim-knode kdepim-kmail kdepim-kontact kdepim-akonadiconsole
 
 ## Development
 android-sdk (lib32-alsa-lib lib32-openal lib32-libstdc++5 lib32-libxv lib32-ncurses lib32-sdl lib32-zlib swt) android-udev android-sdk-platform-tools (lib32-gcc-libs lib32-ncurses lib32-zlibeclipse) jdk jre6-compat jdk6-compat
